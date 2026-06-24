@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Welcome to Shivaay Enterprise
 
-<!--
-**shivaayenterprises/shivaayenterprises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shivaay Enterprise is a wholesale supplier committed to providing quality products and reliable service to businesses, retailers, and customers.
 
-Here are some ideas to get you started:
+## 🏢 About Us
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We deal in a wide range of products and supplies, ensuring timely delivery, competitive pricing, and dependable business relationships.
+
+## 🎯 Our Focus
+
+- Wholesale Supply
+- General Trading
+- Business & Retail Distribution
+- Customer-Centric Service
+- Reliable Product Sourcing
+
+## 🌱 Our Mission
+
+To build long-term relationships with customers by delivering quality products, trustworthy service, and efficient supply solutions.
+
+---
+
+**Shivaay Enterprise**  
+*Wholesale Supply • Trading • Distribution*
